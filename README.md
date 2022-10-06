@@ -1,5 +1,4 @@
-![Sin título](https://user-images.githubusercontent.com/89494142/194278211-2048833a-1f98-47f4-887e-7ceaa7037c88.png)
-
+![Sin título](https://user-images.githubusercontent.com/89494142/194279503-f26dce23-3985-415b-b5cf-dbc1af6c5279.png)
 - I’m currently learning Javascript, frontend and backend  :books: :file_folder:
 - I'm working as a Data Analyst :computer:
 - I like to play brawlstars :video_game: :iphone:
